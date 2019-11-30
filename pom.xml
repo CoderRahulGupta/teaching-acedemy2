@@ -83,9 +83,9 @@
 	</distributionManagement>
 	
 	<scm>
-	<connection>scm:https://github.com/CoderRahulGupta/teaching-acedemy2.git</connection>
-	<developerConnection>scm:https://github.com/CoderRahulGupta/teaching-acedemy2.git</developerConnection>
-	<url>scm:https://github.com/CoderRahulGupta/teaching-acedemy2.git</url>
+	<connection>scm:git:https://github.com/CoderRahulGupta/teaching-acedemy2.git</connection>
+	<developerConnection>scm:git:https://github.com/CoderRahulGupta/teaching-acedemy2.git</developerConnection>
+	<url>scm:git:https://github.com/CoderRahulGupta/teaching-acedemy2.git</url>
 	</scm>
 
 	<build>
